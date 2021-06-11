@@ -23,10 +23,6 @@
 - https://developer.biodigital.com/docs/widget/reference/namespaces/timeline#.info
 
 
-## `切换 mybaby-mybody`
-
-- https://developer.biodigital.com/docs/widget/reference/namespaces/scene#.load
-
 
 ## `links to the 3D models (my baby 和 my body)`
 
