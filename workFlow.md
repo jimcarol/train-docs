@@ -25,15 +25,3 @@
 2. 如果没有问题，修改story的状态改为 ready for qa。然后等待反馈
 
 
-```mermaid
-graph LR
-A[development]
-A -- checkout --> B(qa)
-A -- checkout  --> C(feature-1)
-A -- checkout  --> E(feature-2)
-B --- D(qa)
-D -- 往前走 --- F(qa)
-C --> D
-E --> F
-```
-
