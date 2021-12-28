@@ -1,5 +1,5 @@
 # develop workflow
-## 1. 开始一个新的stroy
+## 1. 开始一个新的story
 - 从development checkout 一个feature 分支， 开发完成之后 pull requeset 到development。
 
 **原则上一个feature, 一个commit  格式如下：**
