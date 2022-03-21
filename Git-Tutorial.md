@@ -3,9 +3,9 @@
 ## 1. 开始一个新的story
 - 从develop分支checkout一个feature分支
 
-*原则上一个feature, 一个commit  格式如下：*
+>*原则上一个feature, 一个commit  格式如下：*
 
-**Type(jira-number): subject**
+>**Type(jira-number): subject**
 
 #### Type
 Must be one of the following:
