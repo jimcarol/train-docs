@@ -2,9 +2,22 @@
 
 import styled, { css } from 'styled-components'
 
+const colorVariables = `
+    :root {
+        --coolGray500-color: #333;
+        --coolGray400-color: #444;
+        
+        
+        
+        
+        --primary-color: var(--coolGray500-color)
+        --seconday-color: var(--coolGray400-color)
+    }
+`
+
 // default
 const HeroFontStyle = `
-    color: red;
+    color: var(--primary-color);
 `
 
 const H1FontStyle = `
